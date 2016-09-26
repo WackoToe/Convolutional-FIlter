@@ -1,0 +1,32 @@
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3\es3\es3\bin\Debug\es3.exe.config
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3\es3\es3\bin\Debug\es3.XML
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3\es3\es3\bin\Debug\es3.exe
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3\es3\es3\bin\Debug\es3.pdb
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3\es3\es3\bin\Debug\FSharp.Core.dll
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3\es3\es3\bin\Debug\FSharp.Core.xml
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3\es3\es3\obj\Debug\es3.exe
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3\es3\es3\obj\Debug\es3.pdb
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\Backup\MidTerm settembre\3\es3\es3\bin\Debug\es3.exe.config
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\Backup\MidTerm settembre\3\es3\es3\bin\Debug\es3.XML
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\Backup\MidTerm settembre\3\es3\es3\bin\Debug\es3.exe
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\Backup\MidTerm settembre\3\es3\es3\bin\Debug\es3.pdb
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\Backup\MidTerm settembre\3\es3\es3\bin\Debug\FSharp.Core.dll
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\Backup\MidTerm settembre\3\es3\es3\bin\Debug\FSharp.Core.xml
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\Backup\MidTerm settembre\3\es3\es3\obj\Debug\es3.exe
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\Backup\MidTerm settembre\3\es3\es3\obj\Debug\es3.pdb
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3-4\es3\es3\bin\Debug\es3.exe.config
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3-4\es3\es3\bin\Debug\es3.XML
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3-4\es3\es3\bin\Debug\es3.exe
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3-4\es3\es3\bin\Debug\es3.pdb
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3-4\es3\es3\bin\Debug\FSharp.Core.dll
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3-4\es3\es3\bin\Debug\FSharp.Core.xml
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3-4\es3\es3\obj\Debug\es3.exe
+C:\Users\Paolo\Dropbox\Unipi\Terzo Anno\IUM\MidTerm settembre\3-4\es3\es3\obj\Debug\es3.pdb
+C:\Users\Paolo\Documents\GitHub\Convolutional-FIlter\es3\bin\Debug\es3.exe.config
+C:\Users\Paolo\Documents\GitHub\Convolutional-FIlter\es3\bin\Debug\es3.XML
+C:\Users\Paolo\Documents\GitHub\Convolutional-FIlter\es3\bin\Debug\es3.exe
+C:\Users\Paolo\Documents\GitHub\Convolutional-FIlter\es3\bin\Debug\es3.pdb
+C:\Users\Paolo\Documents\GitHub\Convolutional-FIlter\es3\bin\Debug\FSharp.Core.dll
+C:\Users\Paolo\Documents\GitHub\Convolutional-FIlter\es3\bin\Debug\FSharp.Core.xml
+C:\Users\Paolo\Documents\GitHub\Convolutional-FIlter\es3\obj\Debug\es3.exe
+C:\Users\Paolo\Documents\GitHub\Convolutional-FIlter\es3\obj\Debug\es3.pdb
